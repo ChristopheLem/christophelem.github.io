@@ -80,7 +80,7 @@ header {
     color: rgba(33,33,33 ,1);
 }
 .professional_information h4 {
-    margin: 12px 0 8px 0;
+    margin: 8px 0 8px 0;
 }
 .professional_information i {
     color: rgba(0,188,212 ,1);
@@ -186,6 +186,9 @@ header {
         width: 33%;
         border-left: 1px solid rgba(3,169,244 ,0.8);
     }
+    #about .container {
+        padding: 20px 30px;
+    }
     #about h2 {
         margin-left: -1px;
         border-left: 1px solid rgb(33,33,33);
@@ -199,6 +202,10 @@ header {
         padding: 0 40px;
         border-right: 1px solid rgb(66,66,66);
     }
+    .professional_information h4 {
+        margin: 12px 0 8px 0;
+    }
+
     /* FOOTER */
     footer {
         display: flex;
